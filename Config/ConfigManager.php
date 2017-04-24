@@ -1,12 +1,7 @@
 <?php
 
 /**
- * Configuration loader class for Gloversure_Mamut
- *
- * @category  Mamut
- * @package   Gloversure_Mamut
- * @author    Charles Palmer <chp@gloversure.co.uk>
- * @copyright 2016 Gloversure Ltd
+ * Configuration loader class.
  *
  */
 class Gloversure_Mamut_Config_ConfigManager {
